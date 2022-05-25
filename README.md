@@ -1,0 +1,1 @@
+The data is from [https://www.kaggle.com/datasets/deepcontractor/200k-short-texts-for-humor-detection](https://www.kaggle.com/datasets/deepcontractor/200k-short-texts-for-humor-detection)
